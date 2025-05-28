@@ -1,7 +1,3 @@
-# Desafio Toro
-
-Projeto fullstack com backend em FastAPI e frontend em javascript.
-
 ## Estrutura do Projeto
 
 ```
